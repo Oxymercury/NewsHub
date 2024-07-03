@@ -5,6 +5,8 @@
 
 NewsHub is a dynamic website where users can post and explore various types of content, including news articles, events, job listings, and educational resources. Built with HTML, Tailwind CSS, and React.js, NewsHub offers a seamless user experience with smooth animations, responsive design, and robust features.
 
+[Web-Site link](https://newshubbyrudra.netlify.app)
+
 ## Features
 
 - **Categorized Content**: Users can navigate through different sections like news, events, jobs, and education using a responsive and animated navbar.
