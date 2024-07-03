@@ -32,3 +32,25 @@ NewsHub is a dynamic website where users can post and explore various types of c
    npm start
    ```
 
+## Usage
+
+- Open your browser and navigate to http://localhost:3000.
+- Sign up for a new account or log in with an existing account.
+- State management using `useState`
+- Lifecycle methods with `useEffect`
+- Navigate through the various sections using the navbar.
+- Share interesting posts using the share button.
+- Use of React Icons for various icons
+
+## Contributing
+Contributions are welcome! If you'd like to contribute, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/YourFeature`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/YourFeature`).
+5. Open a pull request.
+
+## Contact
+For any inquiries or issues, please contact me at clouds744@gmail.com.
+
