@@ -13,6 +13,8 @@ NewsHub is a dynamic website where users can post and explore various types of c
 - **User Authentication**: Users can create an account, log in, and log out, with data persistence through local storage.
 - **Responsive Design**: Optimized for mobile phones, tablets, and desktops.
 - **Content Sharing**: Users can share posts via a share button available on each news post.
+- **State Management**: Utilizes the useContext hook for efficient state management.
+- **Smooth Navigation**: Enhanced user experience with React Router and animations.
 
 ## Installation
 
